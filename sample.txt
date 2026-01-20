@@ -1,9 +1,2 @@
-#설정
-git config --global user.email "kdy1668@naver.com"
-git config --global user.name "doyeonkoo"
-
-#commit
-git commit -m "first commit"
-
-#기록확인
-git log
+안녕하세요
+반갑습니다
